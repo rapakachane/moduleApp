@@ -77,7 +77,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff',
     justifyContent: 'center',
     alignItems:'center',
-    
+    backgroundColor:''
   },
   softwareText:{
     fontSize:15,
